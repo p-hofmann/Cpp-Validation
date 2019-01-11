@@ -45,5 +45,5 @@ target_include_directories(Cpp_FileSystem_Emulator
     )
 
 # Add Unittest
-#enable_testing()
-#add_subdirectory(tests)
+enable_testing()
+add_subdirectory(tests)
